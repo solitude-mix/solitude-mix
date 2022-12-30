@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 * [😄&nbsp;&nbsp;我的博客\(使用Bolo驱动\)](http://www.zts521.top)
 <!-- * [🐧&nbsp;&nbsp;通过QQ与我联系](http://wpa.qq.com/msgrd?v=3&uin=330701411&site=qq&menu=yes) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solitude-mix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 当前页面访问计数
 
 ![adlered](https://count.getloli.com/get/@solitude-mix)
