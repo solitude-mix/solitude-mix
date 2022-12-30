@@ -1,7 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solitude-mix&show_icons=true&theme=transparent)
 ### Hi there 👋
 
-I am an amateur programmer, and I write some small projects with my own whims after work.  The technical level is not high.  I love open source and sharing.  You are welcome to give your valuable comments and suggestions on my project:)
+I am an amateur programmer, and I write some small projects with my own whims after work.  The technical level is not high.  I love open source and sharing.  
+You are welcome to give your valuable comments and suggestions on my project:)
 
 ### 你好 👋
 
