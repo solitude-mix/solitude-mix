@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 与我相关 
-* [😄&nbsp;&nbsp;我的博客\]([https://solitude-mix.gitee.io/mybolg-demo/](https://solitude-mix.gitee.io/mybolg-demo/))
+* [😄&nbsp;&nbsp;我的博客\]([http://zts521.me/](http://zts521.me/))
 <!-- * [🐧&nbsp;&nbsp;通过QQ与我联系](http://wpa.qq.com/msgrd?v=3&uin=330701411&site=qq&menu=yes) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solitude-mix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
